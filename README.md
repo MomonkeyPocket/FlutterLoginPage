@@ -6,6 +6,10 @@ A new Flutter project.
 
 https://frozen-escarpment-12788.herokuapp.com/
 
+## How to Deploy Flutter Project on Heroku
+
+https://github.com/diezep/heroku-buildpack-flutter
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
